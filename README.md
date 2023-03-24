@@ -1,2 +1,2 @@
-# clonaci-n_google
+# clonaciOn_google
 Clonación de Google hecho en Tecnolochicas PRO.
