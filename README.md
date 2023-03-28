@@ -18,4 +18,4 @@ Contiene las siguientes secciones:
 ## 3. Objetivo del proyecto
 * Aprender a utiizar las etiqutas estándar de HTML5 y CSS3.
 ## 4. Link a demo
-Aquí puedes visualizar mi proyecto terminado: Clonación de Google[#]
+Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](https://glittery-tanuki-45e3ce.netlify.app/)
